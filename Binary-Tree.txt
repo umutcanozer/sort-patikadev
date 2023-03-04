@@ -1,0 +1,19 @@
+[7,5,1,8,3,6,0,9,4,2]
+Root: 6
+
+                6     
+          3           8
+       1     4      7   9
+     0   2     5    
+
+
+left of 1: 0
+left of 3: 1-0-2
+left of 6: 0-1-2-3-4-5
+left of 8: 7
+
+right of 1: 2
+right of 3: 4-5
+right of 4: 5
+right of 6: 7-8-9
+right of 8: 9
